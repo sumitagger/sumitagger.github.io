@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.c7ec043a.chunk.css",
-    "main.js": "/static/js/main.33d179fb.chunk.js",
-    "main.js.map": "/static/js/main.33d179fb.chunk.js.map",
+    "main.js": "/static/js/main.8156af47.chunk.js",
+    "main.js.map": "/static/js/main.8156af47.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ded903ad.js",
     "runtime-main.js.map": "/static/js/runtime-main.ded903ad.js.map",
-    "static/js/2.bef7b0bf.chunk.js": "/static/js/2.bef7b0bf.chunk.js",
-    "static/js/2.bef7b0bf.chunk.js.map": "/static/js/2.bef7b0bf.chunk.js.map",
+    "static/js/2.1e9ecbc2.chunk.js": "/static/js/2.1e9ecbc2.chunk.js",
+    "static/js/2.1e9ecbc2.chunk.js.map": "/static/js/2.1e9ecbc2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c101ab690e40bc06be13aed815a05a2e.js": "/precache-manifest.c101ab690e40bc06be13aed815a05a2e.js",
+    "precache-manifest.c6b4670ae77b34af73e94849b2715344.js": "/precache-manifest.c6b4670ae77b34af73e94849b2715344.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.c7ec043a.chunk.css.map": "/static/css/main.c7ec043a.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -35,16 +35,12 @@
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.c24ba791.svg",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.6d325fec.png",
-    "static/media/iiitk_logo.png": "/static/media/iiitk_logo.c350d799.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
     "static/media/jsFramework.svg": "/static/media/jsFramework.b05ae5b5.svg",
-    "static/media/legato_logo.png": "/static/media/legato_logo.4ba886ba.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/mp_logo.png": "/static/media/mp_logo.e6788a70.png",
-    "static/media/muffito_logo.png": "/static/media/muffito_logo.db6c1c0d.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.cd7077f7.png",
     "static/media/nyu_logo.png": "/static/media/nyu_logo.934f3bce.png",
-    "static/media/portfolio.gif": "/static/media/portfolio.6e7dc5ad.gif",
     "static/media/programmer.svg": "/static/media/programmer.c1a95f73.svg",
     "static/media/projects_image.svg": "/static/media/projects_image.f7964c6b.svg",
     "static/media/pwa.png": "/static/media/pwa.bd5f4148.png",
@@ -58,8 +54,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ded903ad.js",
-    "static/js/2.bef7b0bf.chunk.js",
+    "static/js/2.1e9ecbc2.chunk.js",
     "static/css/main.c7ec043a.chunk.css",
-    "static/js/main.33d179fb.chunk.js"
+    "static/js/main.8156af47.chunk.js"
   ]
 }
