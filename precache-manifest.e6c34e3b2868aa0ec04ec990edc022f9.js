@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a680f72a534f76aee160946cfa52676d",
+    "revision": "d74a739a4fc09c4028d27006c85a3475",
     "url": "/index.html"
   },
   {
-    "revision": "545bb24a410ce0c42546",
+    "revision": "79b86f571f17bb820b2c",
     "url": "/static/css/main.c7ec043a.chunk.css"
   },
   {
-    "revision": "f042d0ddf0a7bfeacf06",
-    "url": "/static/js/2.eec9231d.chunk.js"
+    "revision": "d4ae3892738cb5943155",
+    "url": "/static/js/2.bef7b0bf.chunk.js"
   },
   {
-    "revision": "545bb24a410ce0c42546",
-    "url": "/static/js/main.b0a8454f.chunk.js"
+    "revision": "79b86f571f17bb820b2c",
+    "url": "/static/js/main.39817ace.chunk.js"
   },
   {
     "revision": "de941ddf668fb880149e",
@@ -256,8 +256,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/stanford_logo.da0e7c80.png"
   },
   {
-    "revision": "dc670b71dcc15778fdf7a9f2be51fe66",
-    "url": "/static/media/sumit_pic.dc670b71.png"
+    "revision": "67bc497a3acaf0249f8962d5005e3d58",
+    "url": "/static/media/sumit_pic.67bc497a.png"
   },
   {
     "revision": "0288c5ec7a87ea73f8d14b12fc4bc94e",
@@ -274,5 +274,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
     "url": "/static/media/ui_ux_design.67a6a11c.svg"
+  },
+  {
+    "revision": "c5341f367eb8f2bfefb3f384c05698ae",
+    "url": "/static/media/ve_logo.c5341f36.png"
   }
 ]);
