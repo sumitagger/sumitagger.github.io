@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8cd40639abbb21e6d67d098d9da0dce",
+    "revision": "64eee865bcb37b6ffbfe3347fe6ccd5d",
     "url": "/index.html"
   },
   {
-    "revision": "b9dd9ef0bee4b59f2828",
+    "revision": "d48d35cc1f0f166f346f",
     "url": "/static/css/main.c7ec043a.chunk.css"
   },
   {
-    "revision": "5890fb0efcd1936e2c10",
-    "url": "/static/js/2.1e9ecbc2.chunk.js"
+    "revision": "21fd76b5352c9277abfb",
+    "url": "/static/js/2.97fcae65.chunk.js"
   },
   {
-    "revision": "b9dd9ef0bee4b59f2828",
-    "url": "/static/js/main.8156af47.chunk.js"
+    "revision": "d48d35cc1f0f166f346f",
+    "url": "/static/js/main.c74a4c08.chunk.js"
   },
   {
     "revision": "de941ddf668fb880149e",
@@ -90,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7a9b2eb087350abacd2587dd578226c7",
     "url": "/static/media/deeplearning_ai_logo.7a9b2eb0.png"
+  },
+  {
+    "revision": "eff0e05f4ed2b9cffb53dda091b69695",
+    "url": "/static/media/deloitte3_logo.eff0e05f.png"
   },
   {
     "revision": "ad0377e004fcc555fec7f8a88caf656c",
@@ -196,6 +200,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistant.c24ba791.svg"
   },
   {
+    "revision": "2069db40326b514402a7f522b40ab327",
+    "url": "/static/media/hikari2_logo.2069db40.png"
+  },
+  {
     "revision": "6d325fec19fe3b6b169d9012f9a1dfb9",
     "url": "/static/media/ibm_logo.6d325fec.png"
   },
@@ -212,8 +220,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "e6788a70e929deced7804649012449d7",
-    "url": "/static/media/mp_logo.e6788a70.png"
+    "revision": "a32ad8ecb836006bba50c9673ed5a622",
+    "url": "/static/media/mp_logo.a32ad8ec.png"
   },
   {
     "revision": "cd7077f7a08bffdb11e13093424e13fd",
